@@ -4,9 +4,7 @@ const STATIC_ASSETS = [
   '/index.html',
   '/manifest.webmanifest',
   '/config.js',
-  '/icons/apple-touch-icon.png',
-  '/icons/icon-192.png',
-  '/icons/icon-512.png'
+  '/icons/icon.svg'
 ];
 
 self.addEventListener('install', event => {
